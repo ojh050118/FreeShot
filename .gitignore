@@ -735,4 +735,4 @@ sysinfo.txt
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/csharp,unity,rider,visualstudiocode,visualstudio
+.DS_Store
