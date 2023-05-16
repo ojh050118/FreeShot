@@ -2950,7 +2950,7 @@ GameObject:
   - component: {fileID: 2541039007311704274}
   m_Layer: 0
   m_Name: ThirdPersonController
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
